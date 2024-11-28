@@ -1,0 +1,3 @@
+Longest Compound Word: ethylenediaminetetraacetates
+Second Longest Compound Word: electroencephalographically
+Time taken: 4.11725 seconds

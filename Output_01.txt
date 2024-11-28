@@ -1,0 +1,3 @@
+Longest Compound Word: ratcatdogcat
+Second Longest Compound Word: catsdogcats
+Time taken: 0 seconds
