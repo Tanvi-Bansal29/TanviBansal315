@@ -1,4 +1,5 @@
-#Longest Compounded Word Finder 
+# Longest Compounded Word Finder 
+
 The solution identifies the longest compound word and the second longest compound word in a dataset. A compound word is formed by concatenating smaller words from the same dataset. This implementation uses a Trie for efficient prefix matching and a queue-based approach to process potential compound words.
 
 ---
